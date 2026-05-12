@@ -1,0 +1,15 @@
+# API Keys - never upload
+.env
+
+# Virtual environments
+.venv
+.venv-1
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
